@@ -9,7 +9,7 @@ My thesis for the Master of Pure Mathematics at Imperial College London and the 
 - other: Folder containing other axis of research and working on molecular data.
 
 ### Acknowledgements:
-I would like to thanks Professor Jeroen Lamb and Victoria Klein for their help and guidance.
+I would like to thank Professor Jeroen Lamb and Victoria Klein for their help and guidance.
 
 ### Libraries to install:
 - numpy
